@@ -1,7 +1,7 @@
 # TITLE
 
 Windows 98 VM - with - Oracle VirtualBox Install instructions
-Dated: 19/04/2024 by Sumeet Singh @ www.sumeet-singh.com
+Dated: 19/04/2024 by Sumeet Chand @ www.sumeetchand.com
 
 
 # IMPORTANT 
